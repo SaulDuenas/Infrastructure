@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OPCClient">
+</Property><Property Name="Solution File" Value="C:\Teseracto\Pruebas\OPC en .NET\Fuente\OPCClient.sln">
+</Property><Property Name="Date" Value="Domingo, 02 de Marzo de 2008">
+</Property><Property Name="Time" Value="13:14 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="OPCClient" Source="OPCClient.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OPCClient" Source="OPCClient.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OPCClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OPCClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OPCClient" Source="OPCClient.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

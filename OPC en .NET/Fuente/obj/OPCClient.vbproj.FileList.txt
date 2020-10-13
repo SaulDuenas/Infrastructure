@@ -1,0 +1,8 @@
+obj\Debug\OPCClient.exe
+obj\Debug\OPCClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OPCClient.vbproj.ResolveComReference.cache
+obj\Debug\OPCClient.frmOPC.resources
+obj\Debug\OPCClient.frmPropiedadesOPC.resources
+obj\Debug\OPCClient.frmServidoresOPC.resources
+obj\Debug\OPCClient.vbproj.GenerateResource.Cache

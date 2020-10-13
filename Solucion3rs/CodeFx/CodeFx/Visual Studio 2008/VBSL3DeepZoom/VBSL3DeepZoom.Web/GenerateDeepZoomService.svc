@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="VB" Debug="true" Service="GenerateDeepZoomService" CodeBehind="~/App_Code/GenerateDeepZoomService.vb" %>

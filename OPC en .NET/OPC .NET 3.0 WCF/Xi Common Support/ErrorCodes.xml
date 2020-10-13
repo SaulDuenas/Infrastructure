@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- ******************************************************************
+ *
+ * Copyright © 2009, 2010 OPC Foundation, Inc.
+ *
+ * This source code is subject to terms and conditions of the 
+ * Express Interface Public License. A copy of the license can 
+ * be found in the XiLicense.html file at the root of this 
+ * distribution.  The license can also be located at 
+ * http://www.opcfoundation.org/xi/.  By using this source code 
+ * in any fashion, you are agreeing to be bound by the terms of 
+ * the Express Interface Public License.
+ *
+ * You must not remove this notice, or any other, from this software.
+ *
+ *******************************************************************-->
+<errors>
+	<!-- Standard server codes -->
+	<!-- Each entry in the Standard server error codes should have a coresponding value in         -->
+	<!-- XiFaultCodes.cs this file provides a conversion from the error code to a text description. -->
+	<error id="0x00000000" text="Success" />
+	<error id="0x00000001" text="Success with Information" />
+	<error id="0x87770001" text="Invalid Context" />
+	<error id="0x87770002" text="Invalid List Id" />
+	<error id="0x87770003" text="Invalid Endpoint Id" />
+	<error id="0x87770004" text="Alias not found" />
+	<error id="0x87770005" text="See Error Info for Details" />
+	<error id="0x87770006" text="Not Found" />
+	<error id="0x87770007" text="List Disabled" />
+	<error id="0X87770008" text="Bad Argument" />
+	<error id="0x87770009" text="Inconsistent Usage" />
+	<error id="0x8777000A" text="Invalid Request" />
+	<error id="0x8777000B" text="Endpoint Error" />
+	<error id="0x8777000C" text="Inconsistent Transport Data Type" />
+	<error id="0x8777000D" text="The Server has shutdown" />
+	<error id="0x8777000E" text="The wrapped server is not accessable" />
+	<error id="0x8777000F" text="An exception occured in a COM server method" />
+	<error id="0x877780FE" text="Xi Fault Details Message from text" />
+	<error id="0x877780FF" text="Xi Details Message from Exception" />
+	<!-- Custom server codes -->
+</errors>

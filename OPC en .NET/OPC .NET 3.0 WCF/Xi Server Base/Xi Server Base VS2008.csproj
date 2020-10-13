@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{01B26CC7-5F9B-4A48-B1A6-1D8E65FD24D3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Xi.Server.Base</RootNamespace>
+    <AssemblyName>Xi.Server.Base</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\x86\Debug\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\x86\Debug\bin\Xi.Server.Base.XML</DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\x86\Release\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\x86\Release\bin\Xi.Server.Base.XML</DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Net">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base Classes\ServerRoot.cs" />
+    <Compile Include="Base Classes\XiDiscoveryMain.cs" />
+    <Compile Include="Base Classes\XiDiscoveryServerResolver.cs" />
+    <Compile Include="Context\ContextBaseCallback.cs" />
+    <Compile Include="Context\ContextBaseContextMgt.cs" />
+    <Compile Include="Context\ContextBaseDiscoveryMethods.cs" />
+    <Compile Include="Context\ContextBaseAlarmsEvents.cs" />
+    <Compile Include="Context\ContextBaseEndpointMgt.cs" />
+    <Compile Include="Context\ContextBasePoll.cs" />
+    <Compile Include="Context\ContextBaseListMgt.cs" />
+    <Compile Include="Context\ContextBaseRead.cs" />
+    <Compile Include="Context\ContextBaseWrite.cs" />
+    <Compile Include="Endpoints\EndpointEntry.cs" />
+    <Compile Include="Lists and Data\DataJournalListValueBase.cs" />
+    <Compile Include="Lists and Data\DataListBase.cs" />
+    <Compile Include="Lists and Data\DataJournalListBase.cs" />
+    <Compile Include="Lists and Data\DataListRoot.cs" />
+    <Compile Include="Lists and Data\DataListValueBase.cs" />
+    <Compile Include="Lists and Data\EventJournalListBase.cs" />
+    <Compile Include="Lists and Data\EventListRoot.cs" />
+    <Compile Include="Lists and Data\EventListValueBase.cs" />
+    <Compile Include="Lists and Data\EventsListBase.cs" />
+    <Compile Include="Lists and Data\ValueRoot.cs" />
+    <Compile Include="Service Contracts\Callback.cs" />
+    <Compile Include="Service Contracts\Poll.cs" />
+    <Compile Include="Service Contracts\Read.cs" />
+    <Compile Include="Context\ContextBase.cs" />
+    <Compile Include="Lists and Data\ListRoot.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Context\ContextManager.cs" />
+    <Compile Include="Service Contracts\ResourceManagement.cs" />
+    <Compile Include="Service Contracts\RestRead.cs" />
+    <Compile Include="Base Classes\ServerBase.cs" />
+    <Compile Include="Service Contracts\ServerDiscovery.cs" />
+    <Compile Include="Service Contracts\InitializeServerData.cs" />
+    <Compile Include="Service Contracts\XiTracer.cs" />
+    <Compile Include="Service Contracts\Write.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Xi Common Support\Xi Common Support VS2008.csproj">
+      <Project>{55E828C6-D017-411B-8B0E-5EBB3030D79A}</Project>
+      <Name>Xi Common Support VS2008</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Xi Contracts Constants\Xi Contracts Constants VS2008.csproj">
+      <Project>{49251555-ABA5-4587-BA12-FF06A895A70F}</Project>
+      <Name>Xi Contracts Constants VS2008</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Xi Contracts\Xi Contracts VS2008.csproj">
+      <Project>{F735615B-EB8F-464A-8877-68A849C5CBF7}</Project>
+      <Name>Xi Contracts VS2008</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

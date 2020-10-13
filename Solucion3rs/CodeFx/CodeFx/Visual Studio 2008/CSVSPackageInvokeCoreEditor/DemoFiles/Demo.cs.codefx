@@ -1,9 +1,0 @@
-using System;
-
-namespace CodeFx.Demo 
-{
-    public class CsDemo
-    { 
-        
-    }
-}
