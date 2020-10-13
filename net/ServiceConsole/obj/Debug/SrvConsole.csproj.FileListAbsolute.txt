@@ -1,0 +1,56 @@
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\bin\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\bin\Debug\SrvConsole.exe.config
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\bin\Debug\Oracle.DataAccess.dll
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmCfgSyncSIMSvc.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmCfgInViewSvc.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\obj\Debug\SrvConsole.pdb
+C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\bin\Debug\SrvConsole.pdb
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\bin\Debug\SrvConsole.exe.config
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvConsole.exe
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvConsole.pdb
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\bin\Debug\SrvConsole.exe
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\bin\Debug\SrvConsole.pdb
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmCfgSyncSIMSvc.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmCfgInViewSvc.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+C:\Teseracto\Infraestructura\CSharp\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\bin\Debug\SrvConsole.exe.config
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvConsole.exe
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvConsole.pdb
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\bin\Debug\SrvConsole.exe
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\bin\Debug\SrvConsole.pdb
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\bin\Debug\Oracle.DataAccess.dll
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmCfgSyncSIMSvc.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmMain.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmCfgInViewSvc.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+D:\Atalaya\Infraestructura\Csharp\ServiceConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache

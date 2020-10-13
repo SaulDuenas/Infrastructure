@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[TSRButton.vbp]
+SCC_Aux_Path = "\\Tsr-server\TSR_VSS\Yoli_SEY"
+SCC_Project_Name = "$/3 DPS/Desa/VB6/TSR_Button", NCBAAAAA

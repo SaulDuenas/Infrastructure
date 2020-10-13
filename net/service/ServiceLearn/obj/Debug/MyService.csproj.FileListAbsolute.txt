@@ -1,0 +1,10 @@
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.exe
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.pdb
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.pdb
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.MensajesLog.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.ProjectInstaller.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.svcMain.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.csproj.GenerateResource.Cache
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe.config

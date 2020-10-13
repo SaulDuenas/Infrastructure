@@ -1,0 +1,11 @@
+[History]
+1=#P0#=mb	#P1#=FGLlenar	#P2#=Project1/TSR_FG/FGLlenar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120818101928	#P7#=-2147483640	#P8#=21	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Project1/FrmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120818101602	#P7#=0	#P8#=26	.
+3=#P0#=mb	#P1#=FGAgregarRenglon	#P2#=Project1/TSR_FG/FGAgregarRenglon	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521152102	#P7#=-2147483640	#P8#=50	.
+4=#P0#=mb	#P1#=FG_EliminarFilasSeleccionadas	#P2#=Project1/TSR_FG/FG_EliminarFilasSeleccionadas	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120521152031	#P7#=-2147483640	#P8#=0	.
+5=#P0#=mb	#P1#=FGOrdenar	#P2#=Project1/TSR_FG/FGOrdenar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521141906	#P7#=0	#P8#=-6	.
+6=#P0#=mb	#P1#=chkAlternateColor_Click	#P2#=Project1/FrmMain/chkAlternateColor_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120520001934	#P7#=0	#P8#=-1	.
+7=#P0#=mb	#P1#=cmdAdd_Click	#P2#=Project1/FrmMain/cmdAdd_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519221543	#P7#=0	#P8#=2	.
+8=#P0#=mb	#P1#=TSR_Grid_BeforeEdit	#P2#=Project1/FrmMain/TSR_Grid_BeforeEdit	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819230224	#P7#=0	#P8#=3	.
+9=#P0#=mb	#P1#=Command1_Click	#P2#=Project1/FrmMain/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120504082421	#P7#=0	#P8#=-1	.
+10=#P0#=mb	#P1#=cmdRemove_Click	#P2#=Project1/FrmMain/cmdRemove_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120504082355	#P7#=0	#P8#=2	.

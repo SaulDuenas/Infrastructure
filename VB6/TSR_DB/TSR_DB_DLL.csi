@@ -1,0 +1,11 @@
+[History]
+1=#P0#=mb	#P1#=DBConectar	#P2#=TSR_DB/DBmain/DBConectar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111105121249	#P7#=0	#P8#=6	.
+2=#P0#=mb	#P1#=DBCursorTerminar	#P2#=TSR_DB/DBmain/DBCursorTerminar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111105120934	#P7#=0	#P8#=-1	.
+3=#P0#=mb	#P1#=DBCursorSiguiente	#P2#=TSR_DB/DBmain/DBCursorSiguiente	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111104232457	#P7#=0	#P8#=-7	.
+4=#P0#=mb	#P1#=DefaultRS	#P2#=TSR_DB/DBmain/DefaultRS [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111104232426	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=DBCursorIniciar	#P2#=TSR_DB/DBmain/DBCursorIniciar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111105115710	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=DBPruebaConexion	#P2#=TSR_DB/DBmain/DBPruebaConexion	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111104232138	#P7#=0	#P8#=6	.
+7=#P0#=mb	#P1#=DefaultRS	#P2#=TSR_DB/DBmain/DefaultRS [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111104231919	#P7#=0	#P8#=5	.
+8=#P0#=mb	#P1#=DefaultDB	#P2#=TSR_DB/DBmain/DefaultDB [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111104231748	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=DefaultDB	#P2#=TSR_DB/DBmain/DefaultDB [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20111104231726	#P7#=0	#P8#=2	.
+10=#P0#=mb	#P1#=DBIniciar	#P2#=TSR_DB/DBmain/DBIniciar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20111104230550	#P7#=0	#P8#=0	.

@@ -1,0 +1,19 @@
+Line 13: Class TSRGrid.TSR_Grid of control TSR_Grid was not a loaded control class.
+Line 41: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid was not a loaded control class.
+Line 19: The property name _ExtentX in TSR_Grid is invalid.
+Line 20: The property name _ExtentY in TSR_Grid is invalid.
+Line 21: The property name EnterKeyBehaviour in TSR_Grid is invalid.
+Line 22: The property name BackColorAlternate in TSR_Grid is invalid.
+Line 23: The property name GridLinesFixed in TSR_Grid is invalid.
+Line 25: The property name BackColorBkg in TSR_Grid is invalid.
+Line 26: The property name Cols in TSR_Grid is invalid.
+Line 36: The property name GridColor in TSR_Grid is invalid.
+Line 37: The property name GridColorFixed in TSR_Grid is invalid.
+Line 39: The property name Rows in TSR_Grid is invalid.
+Line 13: Property MouseIcon in TSR_Grid could not be set.
+Line 47: The property name _ExtentX in MSFlexGrid is invalid.
+Line 48: The property name _ExtentY in MSFlexGrid is invalid.
+Line 49: The property name _Version in MSFlexGrid is invalid.
+Line 50: The property name Rows in MSFlexGrid is invalid.
+Line 51: The property name Cols in MSFlexGrid is invalid.
+Line 52: The property name FixedCols in MSFlexGrid is invalid.

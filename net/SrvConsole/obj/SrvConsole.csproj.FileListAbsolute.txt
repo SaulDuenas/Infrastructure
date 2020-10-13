@@ -1,0 +1,116 @@
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar2.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.config
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.application
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.pdb
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.application
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Whirlpool\Conteo Final Mty-Celaya\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.pdb
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.config
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.application
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.pdb
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.application
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe
+C:\Teseracto\Rockwell\Chrysler InViews\3 DPS\Desa\C#\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.pdb
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.config
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.pdb
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.application
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\bin\Debug\SrvConsole.pdb
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe.manifest
+C:\Teseracto\Chrysler_Inview\Consola\SrvConsole\SrvConsole\obj\Debug\SrvConsole.application
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\bin\Release\SrvConsole.exe.config
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\bin\Release\SrvConsole.exe.manifest
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\bin\Release\SrvConsole.application
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\bin\Release\SrvConsole.exe
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\bin\Release\SrvConsole.pdb
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\ResolveAssemblyReference.cache
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmAcercade.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmAvance.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmMain.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmConfigurar.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmSelCelda.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.frmSplash.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.Properties.Resources.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.Resources.Strings.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.ucInViewCfg.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvControlPanel.ucListaCeldas.resources
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvConsole.csproj.GenerateResource.Cache
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvConsole.exe.manifest
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvConsole.application
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvConsole.exe
+C:\13_01_09\Desarrollo\SrvConsole\SrvConsole\obj\Release\SrvConsole.pdb
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.config
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.pdb
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.pdb
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+H:\Escritorio\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe.config
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.exe
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.pdb
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.exe
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\bin\Debug\SrvConsole.pdb
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\ResolveAssemblyReference.cache
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAcercade.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmAvance.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmMain.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmConfigurar.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSelCelda.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.frmSplash.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Properties.Resources.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.Resources.Strings.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucInViewCfg.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvControlPanel.ucListaCeldas.resources
+F:\Escritorio\Resp 22 Feb 2011\Ultimo servicio yoli\SrvConsole\SrvConsole\obj\Debug\SrvConsole.csproj.GenerateResource.Cache

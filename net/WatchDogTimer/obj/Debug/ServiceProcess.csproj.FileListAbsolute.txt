@@ -1,0 +1,5 @@
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\WatchDogTimer\bin\Debug\WatchDogTimer.dll
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\WatchDogTimer\bin\Debug\WatchDogTimer.pdb
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\WatchDogTimer\obj\Debug\WatchDogTimer.dll
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\WatchDogTimer\obj\Debug\WatchDogTimer.pdb
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\WatchDogTimer\obj\Debug\ServiceProcess.csprojResolveAssemblyReference.cache

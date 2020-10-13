@@ -1,0 +1,13 @@
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\bin\Debug\LiftBoxApp.exe.config
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\bin\Debug\LiftBoxApp.exe
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\bin\Debug\LiftBoxApp.pdb
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\bin\Debug\Teseracto.Opc.dll
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\bin\Debug\Teseracto.Opc.pdb
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\LiftBoxApp.frmExportar.resources
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\LiftBoxApp.frmMain.resources
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\LiftBoxApp.Properties.Resources.resources
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\LiftBoxApp.exe
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\LiftBoxApp\obj\x86\Debug\LiftBoxApp.pdb

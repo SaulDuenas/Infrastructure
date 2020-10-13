@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrintRpt.MainProgram">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrintRpt.ProjectInstaller">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ProjectInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrintRpt.svcMain">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BwAACAKCACIAwAAAEACAAAAGGABAAMFSAkAIAYAAMAE=</HashCode>
+      <FileName>svcMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teseracto.Data.TSR_DB">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Teseracto.Data.TSR_DB.c_SP" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Teseracto\Infraestructura\CSharp\Infra\TSR-DB.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEEAUAAAAAAAAAGAAIAAAAQAAICSAAAQBAAAAg=</HashCode>
+      <FileName>C:\Teseracto\Infraestructura\CSharp\Infra\TSR-DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teseracto.IniFiles.TSR_INI">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AxAAAgAAAAAgQEAgAAAAAAAAAACAAAAAAAgAEAAAIAA=</HashCode>
+      <FileName>C:\Teseracto\Infraestructura\CSharp\Infra\TSR-INI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teseracto.Log.TSR_LOG">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAYAASAAAEEAICAAQAAQABAAAAAAIgCAEAAAEAEAgA=</HashCode>
+      <FileName>C:\Teseracto\Infraestructura\CSharp\Infra\TSR-LOG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Teseracto.Log.Nivel">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgIIAAAAAAAAAAAABA=</HashCode>
+      <FileName>C:\Teseracto\Infraestructura\CSharp\Infra\TSR-LOG.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

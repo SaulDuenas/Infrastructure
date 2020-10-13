@@ -1,0 +1,61 @@
+
+VIEJO:
+=======
+vbp:
+----
+Object={2BEE0D00-C0F5-47A5-AA82-1D6A6D6D67DC}#1.1#0; TSR_CmdButton.ocx
+
+frm,ctl:
+--------
+Object = "{2BEE0D00-C0F5-47A5-AA82-1D6A6D6D67DC}#1.1#0"; "TSR_CmdButton.ocx"
+Begin TSR_CommandButton.TSRcmdButton cmdNombreBoton 
+
+
+
+
+NUEVO:
+vbp:
+Object={0B831C55-A31C-4E69-A504-500B651CC35A}#1.0#0; TSR_Button.ocx
+
+frm,ctl:
+--------
+Object = "{0B831C55-A31C-4E69-A504-500B651CC35A}#1.0#0"; "TSR_Button.ocx"
+Begin TSR_Button.TSRButton cmdNombreBoton 
+
+
+ACTUALIZACION  SDB
+
+
+VIEJO:
+=======
+vbp:
+Object={0B831C55-A31C-4E69-A504-500B651CC35A}#1.0#0; TSR_Button.ocx
+
+frm,ctl:
+--------
+Object = "{0B831C55-A31C-4E69-A504-500B651CC35A}#1.0#0"; "TSR_Button.ocx"
+Begin TSR_Button.TSRButton cmdNombreBoton  
+
+
+
+
+NUEVO:
+=======
+vbp:
+Object={CE2D2C3B-ECB2-4E52-BAA9-BAFD2CF2A891}#1.0#0; TSR_Button.ocx
+
+
+frm,ctl:
+--------
+Object = "{CE2D2C3B-ECB2-4E52-BAA9-BAFD2CF2A891}#1.0#0"; "TSR_Button.ocx"
+
+Begin TSR_Button.TSRButton cmdNombreBoton 
+
+
+
+
+
+
+
+el roñoso es:
+0BE35204-8F91-11CE-9DE3-00AA004BB851

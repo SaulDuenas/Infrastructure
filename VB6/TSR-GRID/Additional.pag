@@ -1,0 +1,85 @@
+VERSION 5.00
+Begin VB.PropertyPage Additional 
+   Caption         =   "Additional"
+   ClientHeight    =   3495
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   5925
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   3495
+   ScaleWidth      =   5925
+   Begin VB.ComboBox cmbEnterKeyBehaviour 
+      Height          =   315
+      Left            =   1830
+      Style           =   2  'Dropdown List
+      TabIndex        =   1
+      Top             =   360
+      Width           =   1635
+   End
+   Begin VB.CheckBox chkEditable 
+      Caption         =   "Editable"
+      Height          =   285
+      Left            =   270
+      TabIndex        =   0
+      Top             =   840
+      Width           =   1260
+   End
+   Begin VB.Label lblRows 
+      Alignment       =   1  'Right Justify
+      Caption         =   "&EnterKey Behaviour"
+      Height          =   240
+      Index           =   5
+      Left            =   60
+      TabIndex        =   2
+      Top             =   420
+      Width           =   1635
+   End
+End
+Attribute VB_Name = "Additional"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Private Sub chkEditable_Click()
+    Changed = True
+End Sub
+
+
+
+
+Private Sub cmbEnterKeyBehaviour_Click()
+   Changed = True
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+    SelectedControls(0).Editable = (chkEditable.Value = vbChecked)
+    If cmbEnterKeyBehaviour.ListIndex > -1 Then
+       SelectedControls(0).EnterKeyBehaviour = cmbEnterKeyBehaviour.ListIndex
+    End If
+
+End Sub
+
+
+Private Sub PropertyPage_Initialize()
+   Call PopulateEnterKeyBehaviour
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+    chkEditable.Value = (SelectedControls(0).Editable And vbChecked)
+
+    Dim nSetting As Integer
+    nSetting = SelectedControls(0).EnterKeyBehaviour
+    If nSetting >= 0 And nSetting <= 1 Then
+       cmbEnterKeyBehaviour.ListIndex = nSetting
+    End If
+End Sub
+
+
+Private Sub PopulateEnterKeyBehaviour()
+   With cmbEnterKeyBehaviour
+      .AddItem "0 - Move Down"
+      .AddItem "1 - Move Right"
+      .AddItem "2 - None"
+   End With
+End Sub
+

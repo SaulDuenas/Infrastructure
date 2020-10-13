@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SrvConsole">
+</Property><Property Name="Solution File" Value="C:\Teseracto\Rockwell\Yoli\3 DPS\Desa\Csharp\Servicios\SrvConsole\SrvConsole.sln">
+</Property><Property Name="Date" Value="Martes, 22 de Marzo de 2011">
+</Property><Property Name="Time" Value="16:53:29 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="SrvConsole" Source="SrvConsole.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SrvConsole" Source="SrvConsole.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SrvConsole" Source="SrvConsole.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

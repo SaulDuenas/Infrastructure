@@ -1,0 +1,9 @@
+Línea 72: la clase MSFlexGridLib.MSFlexGrid del control grdGridEditable no era una clase de control cargada.
+Línea 78: el nombre de la propiedad _ExtentX de grdGridEditable no es válido.
+Línea 79: el nombre de la propiedad _ExtentY de grdGridEditable no es válido.
+Línea 80: el nombre de la propiedad _Version de grdGridEditable no es válido.
+Línea 81: el nombre de la propiedad Cols de grdGridEditable no es válido.
+Línea 82: el nombre de la propiedad FixedCols de grdGridEditable no es válido.
+Línea 83: el nombre de la propiedad FocusRect de grdGridEditable no es válido.
+Línea 84: el nombre de la propiedad ScrollBars de grdGridEditable no es válido.
+Línea 85: el nombre de la propiedad FormatString de grdGridEditable no es válido.

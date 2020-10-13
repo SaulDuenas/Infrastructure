@@ -1,0 +1,21 @@
+﻿Instalando ensamblado 'C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe
+   logfile = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.InstallLog
+Instalando el servicio NombreServicio...
+El servicio NombreServicio se ha instalado correctamente.
+Creando el origen de EventLog NombreServicio en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe
+   logfile = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe
+   logfile = C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.InstallLog
+Quitando el origen de EventLog NombreServicio.
+Se está quitando el servicio NombreServicio del sistema...
+El servicio NombreServicio se ha quitado correctamente del sistema.

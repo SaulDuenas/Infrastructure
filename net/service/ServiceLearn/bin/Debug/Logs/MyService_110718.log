@@ -1,0 +1,152 @@
+2011-07-18 17:59:30.390	INF	[001]	Iniciando Servicio…
+2011-07-18 17:59:30.420	INF	[777]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 17:59:31.432	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 17:59:41.476	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 17:59:51.490	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:00:01.505	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:00:11.519	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:00:21.524	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:04:01.139	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:08:57.706	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:09:11.566	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:09:21.580	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:09:31.585	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:09:41.649	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:09:51.663	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:01.668	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:11.672	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:21.677	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:31.681	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:41.685	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:10:51.690	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:11:01.694	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:11:11.709	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:11:12.039	INF	[051]	Deteniendo Servicio…
+2011-07-18 18:11:12.059	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 18:11:12.069	INF	[053]	Servicio Detenido.
+2011-07-18 18:52:44.653	INF	[001]	Iniciando Servicio…
+2011-07-18 18:52:44.683	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 18:52:45.795	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:52:55.809	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:53:05.844	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:53:15.848	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:53:25.852	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:53:35.867	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:53:44.720	INF	[051]	Deteniendo Servicio…
+2011-07-18 18:53:44.730	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 18:53:44.730	INF	[053]	Servicio Detenido.
+2011-07-18 18:54:04.198	INF	[001]	Iniciando Servicio…
+2011-07-18 18:54:04.238	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 18:54:05.319	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:54:15.374	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:54:25.388	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:54:35.402	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:54:45.417	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:54:55.421	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:05.436	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:15.450	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:25.454	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:35.459	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:45.463	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:55:55.488	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:05.502	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:15.526	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:25.581	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:35.595	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:45.610	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:56:55.614	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:05.628	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:15.633	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:25.657	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:35.682	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:45.706	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:57:55.720	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:05.735	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:15.749	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:25.774	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:35.788	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:45.792	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:58:55.807	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:59:05.811	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 18:59:08.826	INF	[051]	Deteniendo Servicio…
+2011-07-18 18:59:08.826	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 18:59:08.826	INF	[053]	Servicio Detenido.
+2011-07-18 18:59:38.408	INF	[001]	Iniciando Servicio…
+2011-07-18 18:59:38.428	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 19:00:23.493	WRN	[005]	WatchDog!!!! Atento!, 00:30 segundos de inactividad!!
+2011-07-18 19:00:32.386	INF	[051]	Deteniendo Servicio…
+2011-07-18 19:00:39.005	WRN	[005]	WatchDog!!!! Atento!, 00:45 segundos de inactividad!!
+2011-07-18 19:00:52.465	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 19:00:52.465	INF	[053]	Servicio Detenido.
+2011-07-18 19:02:11.518	INF	[001]	Iniciando Servicio…
+2011-07-18 19:02:11.548	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 19:02:56.583	WRN	[005]	WatchDog!!!! Atento!, 00:30 segundos de inactividad!!
+2011-07-18 19:03:11.625	WRN	[005]	WatchDog!!!! Atento!, 00:45 segundos de inactividad!!
+2011-07-18 19:03:26.646	WRN	[005]	WatchDog!!!! Atento!, 01:00 segundos de inactividad!!
+2011-07-18 19:03:41.678	WRN	[005]	WatchDog!!!! Atento!, 01:15 segundos de inactividad!!
+2011-07-18 19:03:56.690	WRN	[005]	WatchDog!!!! Atento!, 01:30 segundos de inactividad!!
+2011-07-18 19:04:03.620	INF	[051]	Deteniendo Servicio…
+2011-07-18 19:07:09.917	INF	[001]	Iniciando Servicio…
+2011-07-18 19:07:09.957	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 19:07:11.390	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:07:52.859	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:02.884	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:12.898	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:22.932	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:32.977	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:43.011	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:08:46.847	INF	[051]	Deteniendo Servicio…
+2011-07-18 19:08:46.857	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 19:08:46.877	INF	[053]	Servicio Detenido.
+2011-07-18 19:10:07.873	INF	[001]	Iniciando Servicio…
+2011-07-18 19:10:07.913	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-18 19:10:09.405	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:14.433	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:19.460	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:24.487	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:29.494	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:34.502	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:39.509	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:44.516	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:49.523	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:54.540	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:10:59.558	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:04.565	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:09.582	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:14.599	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:19.626	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:24.634	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:29.651	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:34.668	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:39.675	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:44.723	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:49.760	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:54.787	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:11:59.794	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:04.811	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:09.829	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:14.846	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:19.853	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:24.870	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:29.908	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:34.915	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:39.922	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:44.929	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:49.946	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:54.954	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:12:59.961	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:05.008	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:10.025	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:15.052	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:20.060	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:25.087	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:30.094	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:35.121	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:40.128	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:45.166	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:50.173	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:13:55.210	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:14:00.227	INF	[777]	Este es el proceso principal, se ejecuta cada Timer
+2011-07-18 19:14:04.303	INF	[051]	Deteniendo Servicio…
+2011-07-18 19:14:04.333	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-18 19:14:04.333	INF	[053]	Servicio Detenido.

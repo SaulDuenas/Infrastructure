@@ -1,0 +1,21 @@
+Line 13: Class MSComCtl2.DTPicker of control dtpFecha was not a loaded control class.
+Line 66: Class MSComCtl2.DTPicker of control dtpHora was not a loaded control class.
+Line 88: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control fg was not a loaded control class.
+Line 20: The property name _ExtentX in dtpFecha is invalid.
+Line 21: The property name _ExtentY in dtpFecha is invalid.
+Line 22: The property name _Version in dtpFecha is invalid.
+Line 32: The property name Format in dtpFecha is invalid.
+Line 33: The property name CurrentDate in dtpFecha is invalid.
+Line 73: The property name _ExtentX in dtpHora is invalid.
+Line 74: The property name _ExtentY in dtpHora is invalid.
+Line 75: The property name _Version in dtpHora is invalid.
+Line 85: The property name Format in dtpHora is invalid.
+Line 86: The property name CurrentDate in dtpHora is invalid.
+Line 94: The property name _ExtentX in fg is invalid.
+Line 95: The property name _ExtentY in fg is invalid.
+Line 96: The property name _Version in fg is invalid.
+Line 98: The property name Rows in fg is invalid.
+Line 99: The property name Cols in fg is invalid.
+Line 100: The property name BackColorBkg in fg is invalid.
+Line 101: The property name _NumberOfBands in fg is invalid.
+Line 102: The property name _Band(0).Cols in fg is invalid.

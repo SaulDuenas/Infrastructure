@@ -1,0 +1,6 @@
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\bin\Debug\ConsoleApplicationTask.exe.config
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\bin\Debug\ConsoleApplicationTask.exe
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\bin\Debug\ConsoleApplicationTask.pdb
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\obj\Debug\ConsoleApplicationTask.csprojResolveAssemblyReference.cache
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\obj\Debug\ConsoleApplicationTask.exe
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationTask\obj\Debug\ConsoleApplicationTask.pdb

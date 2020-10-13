@@ -1,0 +1,101 @@
+2009-06-09 19:12:22.437	INF	[001]	Iniciando Servicio…
+2009-06-09 19:12:22.453	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:12:22.453	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:12:22.453	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:12:22.453	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:12:22.453	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:12:22.453	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:12:22.468	ERR	[018]	No se pudo leer el archivo INI de configuración.
+2009-06-09 19:12:22.468	DBG	[030]	Configurando e inicializando periodo de Tiempo.
+2009-06-09 19:12:22.468	DBG	[031]	Inicializando Reloj.
+2009-06-09 19:12:22.468	DBG	[032]	La frecuencia con la que se inicio el reloj es de 10 segundos.
+2009-06-09 19:12:22.468	INF	[???]	Este código se ejecuta en el OnStart del servicio
+2009-06-09 19:12:22.468	DBG	[003]	Servicio Iniciado.
+2009-06-09 19:12:23.468	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:12:23.468	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:12:23.468	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:12:23.468	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:12:23.468	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:12:23.484	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:12:23.484	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:12:23.484	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:12:23.484	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:12:23.500	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:12:23.500	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:12:23.500	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:12:33.500	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:12:33.500	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:12:33.500	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:12:33.500	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:12:33.515	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:12:33.515	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:12:33.515	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:12:33.515	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:12:33.515	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:12:33.515	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:12:33.515	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:12:33.515	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:12:43.515	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:12:43.515	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:12:43.531	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:12:43.531	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:12:43.531	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:12:43.531	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:12:43.531	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:12:43.546	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:12:43.546	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:12:43.546	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:12:43.546	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:12:43.546	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:12:53.546	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:12:53.546	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:12:53.546	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:12:53.546	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:12:53.546	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:12:53.546	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:12:53.562	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:12:53.562	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:12:53.562	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:12:53.562	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:12:53.578	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:12:53.578	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:13:03.578	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:13:03.578	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:13:03.578	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:13:03.578	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:13:03.578	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:13:03.578	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:13:03.593	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:13:03.593	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:13:03.593	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:13:03.593	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:13:03.609	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:13:03.609	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:13:13.609	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:13:13.609	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:13:13.609	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:13:13.609	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:13:13.609	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:13:13.625	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:13:13.625	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:13:13.625	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:13:13.625	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:13:13.640	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:13:13.640	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:13:13.640	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:13:23.640	DBG	[007]	Deteniendo reloj para iniciar proceso
+2009-06-09 19:13:23.640	DBG	[008]	Iniciando Proceso…
+2009-06-09 19:13:23.656	DBG	[002]	Leyendo parámetros de configuración.
+2009-06-09 19:13:23.656	DBG	[010]	Leyendo nivel de detalle de Log.
+2009-06-09 19:13:23.656	DBG	[013]	Leyendo frecuencia de activación.
+2009-06-09 19:13:23.656	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2009-06-09 19:13:23.656	ERR	[033]	Falta el parámetro 'Servidor' de la base de datos, la conexión no se puede establecer.
+2009-06-09 19:13:23.656	DBG	[020]	Actualizando valores en el archivo INI.
+2009-06-09 19:13:23.671	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2009-06-09 19:13:23.671	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2009-06-09 19:13:23.671	DBG	[009]	Esperando siguiente proceso.
+2009-06-09 19:13:23.671	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2009-06-09 19:13:26.046	INF	[051]	Deteniendo Servicio…
+2009-06-09 19:13:26.062	DBG	[052]	Deteniendo Reloj
+2009-06-09 19:13:26.062	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2009-06-09 19:13:26.062	INF	[053]	Servicio Detenido.

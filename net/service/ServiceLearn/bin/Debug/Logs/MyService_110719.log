@@ -1,0 +1,124 @@
+2011-07-19 18:50:11.505	INF	[001]	Iniciando Servicio…
+2011-07-19 18:50:11.515	DBG	[013]	Leyendo frecuencia de activación.
+2011-07-19 18:50:11.515	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2011-07-19 18:50:11.525	DBG	[014]	El archivo INI de configuración fue leído de forma correcta.
+2011-07-19 18:50:11.525	DBG	[020]	Actualizando valores en el archivo INI.
+2011-07-19 18:50:11.525	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2011-07-19 18:50:11.525	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2011-07-19 18:50:11.525	DBG	[030]	Configurando e inicializando periodo de Tiempo.
+2011-07-19 18:50:11.525	DBG	[031]	Inicializando Reloj.
+2011-07-19 18:50:11.525	DBG	[032]	La frecuencia con la que se inicio el reloj es de 5 segundos.
+2011-07-19 18:50:11.525	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-19 18:50:11.535	DBG	[003]	Servicio Iniciado.
+2011-07-19 18:50:12.557	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:12.557	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:13.248	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:13.248	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:18.255	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:18.255	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:18.265	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:18.265	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:23.272	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:23.272	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:23.322	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:23.322	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:28.339	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:28.339	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:28.349	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:28.349	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:33.367	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:33.367	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:33.407	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:33.407	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:38.414	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:38.424	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:38.454	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:38.454	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:43.471	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:43.471	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:43.511	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:43.511	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:48.518	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:48.518	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:48.548	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:48.548	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:53.556	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:53.556	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:53.586	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:53.596	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:50:58.613	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:50:58.613	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:50:58.643	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:50:58.643	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:51:03.650	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:51:03.650	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:51:03.670	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:51:03.670	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:51:08.677	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 18:51:08.677	DBG	[008]	Iniciando Proceso…
+2011-07-19 18:51:08.717	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 18:51:08.717	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 18:51:11.792	INF	[051]	Deteniendo Servicio…
+2011-07-19 18:51:11.822	DBG	[052]	Deteniendo Reloj
+2011-07-19 18:51:11.832	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-19 18:51:11.842	INF	[053]	Servicio Detenido.
+2011-07-19 19:00:29.874	INF	[001]	Iniciando Servicio…
+2011-07-19 19:00:29.884	DBG	[013]	Leyendo frecuencia de activación.
+2011-07-19 19:00:29.884	DBG	[011]	Leyendo los parámetros de conexión a la base de datos primaria
+2011-07-19 19:00:29.884	DBG	[014]	El archivo INI de configuración fue leído de forma correcta.
+2011-07-19 19:00:29.884	DBG	[020]	Actualizando valores en el archivo INI.
+2011-07-19 19:00:29.884	DBG	[021]	Actualizando parámetros de configuración en el archivo INI.
+2011-07-19 19:00:29.894	DBG	[022]	Actualizando valores de la conexión a base de datos primaria en el archivo INI.
+2011-07-19 19:00:29.894	DBG	[030]	Configurando e inicializando periodo de Tiempo.
+2011-07-19 19:00:29.894	DBG	[031]	Inicializando Reloj.
+2011-07-19 19:00:29.904	DBG	[032]	La frecuencia con la que se inicio el reloj es de 5 segundos.
+2011-07-19 19:00:29.904	INF	[007]	Este código se ejecuta en el OnStart del servicio
+2011-07-19 19:00:29.904	DBG	[003]	Servicio Iniciado.
+2011-07-19 19:00:30.916	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:30.926	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:31.507	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:31.507	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:00:36.514	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:36.524	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:36.564	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:36.564	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:00:41.591	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:41.591	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:41.631	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:41.631	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:00:46.659	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:46.659	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:46.709	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:46.709	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:00:51.726	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:51.726	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:51.756	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:51.756	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:00:56.783	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:00:56.783	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:00:56.813	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:00:56.833	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:01.870	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:01:01.870	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:01:01.890	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:01:01.890	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:06.978	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:01:06.978	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:01:06.988	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:01:06.988	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:11.995	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:01:11.995	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:01:12.025	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:01:12.025	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:17.072	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:01:17.072	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:01:17.152	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:01:17.152	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:22.220	DBG	[007]	Deteniendo reloj para iniciar proceso
+2011-07-19 19:01:22.220	DBG	[008]	Iniciando Proceso…
+2011-07-19 19:01:22.220	DBG	[009]	Esperando siguiente proceso.
+2011-07-19 19:01:22.230	DBG	[004]	Reiniciando reloj para el siguiente proceso
+2011-07-19 19:01:26.816	INF	[051]	Deteniendo Servicio…
+2011-07-19 19:01:26.816	DBG	[052]	Deteniendo Reloj
+2011-07-19 19:01:26.816	INF	[???]	Este código se ejecuta en el OnStop del servicio
+2011-07-19 19:01:26.816	INF	[053]	Servicio Detenido.

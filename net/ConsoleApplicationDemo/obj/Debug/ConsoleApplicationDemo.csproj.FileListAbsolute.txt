@@ -1,0 +1,8 @@
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.exe.config
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.exe
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\bin\Debug\ConsoleApplicationDemo.pdb
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\bin\Debug\WatchDogTimer.dll
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\bin\Debug\WatchDogTimer.pdb
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\obj\Debug\ConsoleApplicationDemo.csprojResolveAssemblyReference.cache
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\obj\Debug\ConsoleApplicationDemo.exe
+D:\Mis Proyectos\3. Infraestructura\C_Sharp\ConsoleApplicationDemo\obj\Debug\ConsoleApplicationDemo.pdb

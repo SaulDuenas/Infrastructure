@@ -1,0 +1,45 @@
+[History]
+1=#P0#=mb	#P1#=dtpFecha_Change	#P2#=TSRGrid/TSR_Grid/dtpFecha_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819230826	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=FormatBox	#P2#=TSRGrid/modCommon/FormatBox	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120819224910	#P7#=0	#P8#=-1	.
+3=#P0#=mb	#P1#=NumKeyPress	#P2#=TSRGrid/modCommon/NumKeyPress	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120819224845	#P7#=0	#P8#=190	.
+4=#P0#=mb	#P1#=NumKeyDown	#P2#=TSRGrid/modCommon/NumKeyDown	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120819224827	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=fg_KeyDown	#P2#=TSRGrid/TSR_Grid/fg_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819171759	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=EndKeyEdit	#P2#=TSRGrid/TSR_Grid/EndKeyEdit	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120819230659	#P7#=0	#P8#=13	.
+7=#P0#=mb	#P1#=AbortEdit	#P2#=TSRGrid/TSR_Grid/AbortEdit	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120524133802	#P7#=0	#P8#=3	.
+8=#P0#=mb	#P1#=txtEdit_KeyPress	#P2#=TSRGrid/TSR_Grid/txtEdit_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819230808	#P7#=0	#P8#=7	.
+9=#P0#=mb	#P1#=txtEdit_KeyDown	#P2#=TSRGrid/TSR_Grid/txtEdit_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819224704	#P7#=0	#P8#=4	.
+10=#P0#=mb	#P1#=IsCellVisible	#P2#=TSRGrid/TSR_Grid/IsCellVisible	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120524132218	#P7#=0	#P8#=-2	.
+11=#P0#=mb	#P1#=MoveCellOnEnter	#P2#=TSRGrid/TSR_Grid/MoveCellOnEnter	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120524132202	#P7#=0	#P8#=12	.
+12=#P0#=mb	#P1#=StartKeyEdit	#P2#=TSRGrid/TSR_Grid/StartKeyEdit	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120819223429	#P7#=0	#P8#=24	.
+13=#P0#=mb	#P1#=fg_DblClick	#P2#=TSRGrid/TSR_Grid/fg_DblClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819171044	#P7#=0	#P8#=12	.
+14=#P0#=mb	#P1#=SetAlternateRowColors	#P2#=TSRGrid/TSR_Grid/SetAlternateRowColors	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521151718	#P7#=0	#P8#=58	.
+15=#P0#=mb	#P1#=Removeitem	#P2#=TSRGrid/TSR_Grid/Removeitem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521151643	#P7#=0	#P8#=5	.
+16=#P0#=mb	#P1#=FGColor	#P2#=TSRGrid/TSR_Grid/FGColor	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521150958	#P7#=0	#P8#=11	.
+17=#P0#=mb	#P1#=AddItem	#P2#=TSRGrid/TSR_Grid/AddItem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521145620	#P7#=-2147483640	#P8#=4	.
+18=#P0#=mb	#P1#=EnableAlternateColor	#P2#=TSRGrid/TSR_Grid/EnableAlternateColor [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120521144711	#P7#=0	#P8#=9	.
+19=#P0#=mb	#P1#=Rows	#P2#=TSRGrid/TSR_Grid/Rows [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120521001258	#P7#=0	#P8#=3	.
+20=#P0#=mb	#P1#=SetRowColor	#P2#=TSRGrid/TSR_Grid/SetRowColor	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120521001102	#P7#=0	#P8#=7	.
+21=#P0#=mb	#P1#=BackColorAlternate	#P2#=TSRGrid/TSR_Grid/BackColorAlternate [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120521000911	#P7#=0	#P8#=4	.
+22=#P0#=mb	#P1#=fg_KeyPress	#P2#=TSRGrid/TSR_Grid/fg_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120819171842	#P7#=0	#P8#=0	.
+23=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=TSRGrid/TSR_Grid/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120520151900	#P7#=0	#P8#=27	.
+24=#P0#=mb	#P1#=RowsModify	#P2#=TSRGrid/TSR_Grid/RowsModify	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120520004802	#P7#=0	#P8#=0	.
+25=#P0#=mb	#P1#=UserControl_Resize	#P2#=TSRGrid/TSR_Grid/UserControl_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120520004754	#P7#=0	#P8#=0	.
+26=#P0#=mb	#P1#=txtEdit_LostFocus	#P2#=TSRGrid/TSR_Grid/txtEdit_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120520001316	#P7#=0	#P8#=1	.
+27=#P0#=mb	#P1#=fg_Click	#P2#=TSRGrid/TSR_Grid/fg_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120520001313	#P7#=0	#P8#=0	.
+28=#P0#=mb	#P1#=BackColor	#P2#=TSRGrid/TSR_Grid/BackColor [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519235441	#P7#=0	#P8#=11	.
+29=#P0#=mb	#P1#=BackColorAlternate	#P2#=TSRGrid/TSR_Grid/BackColorAlternate [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519235136	#P7#=0	#P8#=1	.
+30=#P0#=mb	#P1#=UserControl_WriteProperties	#P2#=TSRGrid/TSR_Grid/UserControl_WriteProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519232202	#P7#=0	#P8#=4	.
+31=#P0#=mb	#P1#=EnableAlternateColor	#P2#=TSRGrid/TSR_Grid/EnableAlternateColor [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519231000	#P7#=0	#P8#=1	.
+32=#P0#=mb	#P1#=Max	#P2#=TSRGrid/TSR_Grid/Max	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120519230643	#P7#=0	#P8#=7	.
+33=#P0#=mb	#P1#=UseCheckBox	#P2#=TSRGrid/TSR_Grid/UseCheckBox [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519230636	#P7#=0	#P8#=0	.
+34=#P0#=mb	#P1#=UseCheckBox	#P2#=TSRGrid/TSR_Grid/UseCheckBox [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519230630	#P7#=0	#P8#=2	.
+35=#P0#=mb	#P1#=StartDateEdit	#P2#=TSRGrid/TSR_Grid/StartDateEdit	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120519230404	#P7#=0	#P8#=29	.
+36=#P0#=mb	#P1#=PropertyPage_ApplyChanges	#P2#=TSRGrid/General/PropertyPage_ApplyChanges	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519193209	#P7#=0	#P8#=2	.
+37=#P0#=mb	#P1#=FixedRows	#P2#=TSRGrid/TSR_Grid/FixedRows [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120519190733	#P7#=0	#P8#=0	.
+38=#P0#=mb	#P1#=chkAllowBigSelection_Click	#P2#=TSRGrid/General/chkAllowBigSelection_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519190355	#P7#=0	#P8#=-3	.
+39=#P0#=mb	#P1#=txtFixedRows_Change	#P2#=TSRGrid/General/txtFixedRows_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519190349	#P7#=0	#P8#=-2	.
+40=#P0#=mb	#P1#=txtRows_KeyPress	#P2#=TSRGrid/General/txtRows_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519190346	#P7#=0	#P8#=22	.
+41=#P0#=mb	#P1#=fg_Scroll	#P2#=TSRGrid/TSR_Grid/fg_Scroll	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120519184518	#P7#=0	#P8#=-1	.
+42=#P0#=mb	#P1#=Min	#P2#=TSRGrid/TSR_Grid/Min	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120519173454	#P7#=0	#P8#=-1	.
+43=#P0#=mb	#P1#=Rows	#P2#=TSRGrid/TSR_Grid/Rows	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120519171921	#P7#=0	#P8#=0	.
+44=#P0#=mb	#P1#=AutosizeCols	#P2#=TSRGrid/TSR_Grid/AutosizeCols	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120519132708	#P7#=0	#P8#=5	.

@@ -1,0 +1,29 @@
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.svcMain.resources
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.csproj.GenerateResource.Cache
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.exe
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\bin\Debug\PrintRpt.pdb
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.exe
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.pdb
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.MensajesLog.resources
+C:\Teseracto\ABr\Glaxo\Reportes Mezcladores\3 DPS\C#\Servicio\PrintRpt\obj\Debug\PrintRpt.ProjectInstaller.resources
+C:\Teseracto\Infraestructura\Csharp\PlantillaServicioTSR\obj\Debug\PrintRpt.exe
+C:\Teseracto\Infraestructura\Csharp\PlantillaServicioTSR\obj\Debug\PrintRpt.pdb
+C:\comparte\PlantillaServicioTSR\PlantillaServicioTSR\obj\Debug\PrintRpt.exe
+C:\comparte\PlantillaServicioTSR\PlantillaServicioTSR\obj\Debug\PrintRpt.pdb
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\obj\Debug\PrintRpt.MensajesLog.resources
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\obj\Debug\PrintRpt.ProjectInstaller.resources
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\obj\Debug\PrintRpt.svcMain.resources
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\obj\Debug\PrintRpt.csproj.GenerateResource.Cache
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\bin\Debug\PrintRpt.exe
+C:\Teseracto\Infraestructura\CSharp\PlantillaServicioTSR\bin\Debug\PrintRpt.pdb
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.pdb
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.MensajesLog.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\PrintRpt.ProjectInstaller.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\PrintRpt.svcMain.resources
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\PrintRpt.csproj.GenerateResource.Cache
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.exe
+C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\obj\Debug\MyService.pdb

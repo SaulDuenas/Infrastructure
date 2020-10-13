@@ -1,0 +1,345 @@
+﻿Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+Creando el origen de EventLog MyService en el registro Application...
+Deshaciendo ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen MyService.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyService.
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Advertencia: el origen MyService no está registrado en el equipo local.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyService.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+Creando el origen de EventLog MyService en el registro Application...
+Deshaciendo ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen MyService.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+Creando el origen de EventLog MyService en el registro Application...
+Deshaciendo ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen MyService.
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Advertencia: el origen MyService no está registrado en el equipo local.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+Creando el origen de EventLog MyService en el registro Application...
+Deshaciendo ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Restaurando el registro de eventos al estado anterior para el origen MyService.
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Advertencia: el origen MyService no está registrado en el equipo local.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyService.
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Advertencia: el origen MyService no está registrado en el equipo local.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Advertencia: el origen MyService no está registrado en el equipo local.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\Myservice.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Desinstalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Quitando el origen de EventLog MyService.
+Se está quitando el servicio MyService del sistema...
+El servicio MyService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyService.
+Instalando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog
+Instalando el servicio MyService...
+El servicio MyService se ha instalado correctamente.
+Creando el origen de EventLog MyService en el registro Application...
+Confirmando ensamblado 'C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.exe
+   logfile = C:\Teseracto\Infraestructura\CSharp\service\ServiceLearn\bin\Debug\MyService.InstallLog

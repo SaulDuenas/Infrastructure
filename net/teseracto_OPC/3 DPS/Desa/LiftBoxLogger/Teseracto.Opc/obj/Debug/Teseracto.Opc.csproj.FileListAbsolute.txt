@@ -1,0 +1,5 @@
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\Teseracto.Opc\bin\Debug\Teseracto.Opc.dll
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\Teseracto.Opc\bin\Debug\Teseracto.Opc.pdb
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\Teseracto.Opc\obj\Debug\ResolveAssemblyReference.cache
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\Teseracto.Opc\obj\Debug\Teseracto.Opc.dll
+C:\Teseracto\Invista\Autefa\3 DPS\Desa\LiftBoxLogger\Teseracto.Opc\obj\Debug\Teseracto.Opc.pdb
