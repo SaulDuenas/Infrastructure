@@ -1,0 +1,10 @@
+; ATLShellExtCopyHookHandler.def : Declares the module parameters.
+
+LIBRARY      "ATLShellExtCopyHookHandler.DLL"
+
+EXPORTS
+	DllCanUnloadNow		PRIVATE
+	DllGetClassObject	PRIVATE
+	DllRegisterServer	PRIVATE
+	DllUnregisterServer	PRIVATE
+	DllInstall		PRIVATE

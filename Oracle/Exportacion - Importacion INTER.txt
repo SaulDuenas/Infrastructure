@@ -1,0 +1,105 @@
+-- Las tareas se ejecutan en SQLPlus
+
+----------------------------------------------
+
+
+-- CREACION DE USUARIOS
+
+CREATE USER inter IDENTIFIED BY inter DEFAULT TABLESPACE SYSTEM TEMPORARY TABLESPACE TEMP;
+CREATE USER radian IDENTIFIED BY radian DEFAULT TABLESPACE SYSTEM TEMPORARY TABLESPACE TEMP;
+
+
+CREATE USER reporter IDENTIFIED BY reporter DEFAULT TABLESPACE SYSTEM TEMPORARY TABLESPACE TEMP;
+
+grant connect to inter;
+grant all privileges to inter;
+grant imp_full_database to inter;
+
+grant connect to reporter;
+grant all privileges to reporter;
+
+
+-- EXPORTACION
+--0) conectarse a SQL PLUS desde cmd 
+	
+	C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe /nolog  (sqlplus system/(password))
+
+
+--1) conectarse con inter y despues salir a host
+	
+	conn inter/inter
+	
+--2) Salir a host
+  host 
+	
+--2) ejecutar: 
+exp USERID=inter/inter OWNER=(INTER) FILE=ARCHIVO.dmp STATISTICS=NONE
+
+exp USERID=inter/inter OWNER=radian FILE='/home/sadbadmin/Documents/ORA10G_INTER0120171104.dmp' LOG='/home/sadbadmin/Documents/ORA10G_INTER0120171104.log' STATISTICS=NONE FULL=YES
+
+exp USERID=inter02/inter02 OWNER=(INTER02) FILE=INTER0220170123.dmp LOG=INTER0220170123.log STATISTICS=NONE FULL=YES;
+
+--3) el ARCHIVO.dmp lo genero en 
+C:\oraclexe\app\oracle\product\11.2.0\server\BIN>
+ --  /usr/lib/oracle/xe/app/oracle/product/10.2.0/server/bin (LINUX)
+----------------------------------------------
+
+-- IMPORTACION (PREVIO)
+
+-- ** eliminar las tablas 
+	DROP TABLE BD_DEPENDENCIE PURGE;
+	DROP TABLE BD_LINK PURGE;
+	DROP TABLE BD_OBJETO PURGE;
+	DROP TABLE BD_OBJETO_SIZE PURGE;
+	DROP TABLE BD_PROCEDURE PURGE;
+	DROP TABLE DELPHI_DFM PURGE;
+	DROP TABLE DELPHI_JERARQUIA PURGE;
+	DROP TABLE DELPHI_TPOCADENA PURGE;
+	DROP TABLE GFI_APLICACION PURGE;
+	DROP TABLE GFI_ARISTA PURGE;
+	DROP TABLE GFI_BITACORA PURGE;
+	DROP TABLE GFI_BITACORA_2 PURGE;
+	DROP TABLE GFI_FUNCION PURGE;
+	DROP TABLE GFI_OBJECT_CACHE PURGE;
+	DROP TABLE GFI_TNSNAME PURGE;
+	DROP TABLE GFI_V$SQL PURGE;
+
+-- IMPORTACION (PASOS)
+--1) copiar archivo ARCHIVO.dmp a C:\oraclexe\app\oracle\product\11.2.0\server\BIN>
+
+--2) conectarse a SQL PLUS desde cmd 
+	
+	C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe /nolog
+
+--3) aumentar tamaño de TABLESPACE segun como vaya aumentado el tamaño del tablespace
+alter database datafile 'C:\ORACLEXE\APP\ORACLE\ORADATA\XE\SYSTEM.DBF' resize 4g;
+
+alter database datafile '/usr/lib/oracle/xe/oradata/XE/system.dbf' resize 4g;
+
+--4) logearse con el us con inter
+	conn inter/inter
+
+--5) Salir a host
+(instruccion host)
+
+--6) ejecutar: 
+cd C:\oraclexe\app\oracle\product\11.2.0\server\bin
+imp inter/inter FILE=INTER_20170508.dmp FROMUSER=INTER TOUSER=INTER LOG=INTER_20170508.log
+
+
+imp INTER/INTER FILE=D:\Sofftek\Cuentas\GFI\DPS\Oracle\INTER_20170508.dmp FROMUSER=INTER TOUSER=INTER LOG=INTER_20170508.log
+
+imp INTER/INTER FILE=/home/sadbadmin/INTER_20170508.dmp FROMUSER=INTER TOUSER=INTER LOG=INTER_20170508.log
+
+----------------------------------------------
+--- cambiar contraseña de usuario
+ALTER USER sys IDENTIFIED BY inter;
+
+-- crear usuario
+-- ejemplo
+SQL> grant dba to INTER2 identified by inter2;
+SQL> grant sysdba to INTER2; -- solo si es necesario
+
+----------------------------------------------
+
+----------------------------------------------

@@ -1,0 +1,8 @@
+Imports System
+
+Namespace CodeFx.Demo
+
+    Public Class VBDemo
+    End Class
+
+End Namespace

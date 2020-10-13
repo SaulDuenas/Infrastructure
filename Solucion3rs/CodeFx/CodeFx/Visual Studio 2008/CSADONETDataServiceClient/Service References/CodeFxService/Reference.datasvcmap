@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8f9f67ab-be1f-4433-826b-973ea2958816" xmlns="urn:schemas-microsoft-com:xml-dataservicemap">
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8888/CodeFx.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.edmx" MetadataType="Edmx" ID="f4eb1115-f413-4e81-81d8-8d3d0f78360b" SourceId="1" SourceUrl="http://localhost:8888/CodeFx.svc" />
+  </Metadata>
+  <Extensions />
+</ReferenceGroup>

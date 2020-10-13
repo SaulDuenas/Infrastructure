@@ -1,0 +1,8 @@
+LIBRARY   CppDllExport
+EXPORTS
+   HelloWorld1			@1
+   StdHelloWorld1		@2
+   FunctionA			@3
+   Max					@4
+   g_nVal1				DATA
+   g_pFunc1				DATA

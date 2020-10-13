@@ -1,0 +1,7 @@
+Estos archivos hay que ponerlos en estas rutas:
+
+C:\Archivos de programa\Sybase\PowerDesigner 15\Resource Files\Report Languages\Español TSR.xrl
+C:\Archivos de programa\Sybase\PowerDesigner 15\Resource Files\Report Templates\Reporte TSR 2008.rtp
+C:\Archivos de programa\Sybase\PowerDesigner 15\Resource Files\RTF Report Templates\Teseracto.rtf
+los *.set en:
+C:\Archivos de programa\Sybase\PowerDesigner 15\Resource Files\Settings

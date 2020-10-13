@@ -1,0 +1,34 @@
+// ATLShellExtDropHandler.idl : IDL source for ATLShellExtDropHandler
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (ATLShellExtDropHandler.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(578301B1-CF24-47B2-BFA4-5566796430B8),
+	helpstring("IFileDropExt Interface"),
+	pointer_default(unique)
+]
+interface IFileDropExt : IUnknown{
+};
+[
+	uuid(1151416F-672C-42C8-9694-61610B9F5567),
+	version(1.0),
+	helpstring("ATLShellExtDropHandler 1.0 Type Library")
+]
+library ATLShellExtDropHandlerLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(34F7A878-1529-416A-99DF-F9690A3D0DE6),
+		helpstring("FileDropExt Class")
+	]
+	coclass FileDropExt
+	{
+		[default] interface IFileDropExt;
+	};
+};
